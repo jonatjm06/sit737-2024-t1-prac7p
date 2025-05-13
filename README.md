@@ -15,7 +15,7 @@ This is a full-stack web application that uses:
 ## 📹 Demo
 
 Check out the demo video showing all CRUD operations:
-[📽️ crud-demo.mp4](./crud-demo.mp4)
+[📽️ crud-demo.mp4](./crud-demo.mkv)
 
 ---
 
